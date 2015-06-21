@@ -1,5 +1,7 @@
-## Put comments here that give an overall description of what your
-## functions do
+## This file contains the definition of two functions
+## that will cache the result of a computationally
+## intensive task so that it may be recalled instead 
+## of being computed again.
 
 ## This function establishes a cached matrix datatype
 
